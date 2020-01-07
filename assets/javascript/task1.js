@@ -1,3 +1,4 @@
+
 /* Put code for the task below */
 function magicButton(){
 	document.getElementById("buttonTask1").style.display = "inline";
